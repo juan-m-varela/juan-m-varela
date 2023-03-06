@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan, an <a href="https://www.linkedin.com/in/juan-varela-79a902194/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Juan, an <a href="https://www.linkedin.com/in/juan-m-varela">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
